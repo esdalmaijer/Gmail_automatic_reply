@@ -38,7 +38,7 @@ message (see line 4, *responsebody*) as well!
 6) Set a timer, to have your script run automatically every now and again.
 *Resources -> Current project's triggers -> Add a new trigger*
 
-**Run**		**Events**
-`ResponsEmail`	`Time-driven`	`Hour timer`	`Every hour`
+**Run**&nbsp;**Events**
+`ResponsEmail`&nbsp;`Time-driven`&nbsp;`Hour timer`&nbsp;`Every hour`
 
 7) Rejoice!
