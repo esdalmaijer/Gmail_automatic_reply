@@ -39,7 +39,7 @@ message (see line 4, *responsebody*) as well!
 *Resources -> Current project's triggers -> Add a new trigger*
 
 
-|**Run**	|**Events**					|
+|**Run**	|**Events**	|		|		|
 |:-------------:|:--------------|---------------|--------------:|
 |`ResponsEmail`	|`Time-driven`	|`Hour timer`	|`Every hour`	|
 
