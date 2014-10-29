@@ -40,7 +40,7 @@ message (see line 4, *responsebody*) as well!
 
 
 |**Run**	|**Events**					|
-|:-------------:|:---------------------------------------------:|
+|:-------------:|:--------------|---------------|--------------:|
 |`ResponsEmail`	|`Time-driven`	|`Hour timer`	|`Every hour`	|
 
 
