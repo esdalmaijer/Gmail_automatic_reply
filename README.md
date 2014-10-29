@@ -30,7 +30,7 @@ HOWTO
 
 3) Add a new file (*File -> New -> Script file*) or edit `Code.gs`.
 
-4) Copy the code from `autoreply.js` to your new script file.
+4) Copy the code from `autoreply.gs` to your new script file.
 
 5) Be sure to change the email addresses in your code, and possibly the
 message (see line 4, *responsebody*) as well!
